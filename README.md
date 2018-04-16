@@ -1,6 +1,5 @@
 # SPL1
-## Pascal W.
-### Woche 1: 16.04.2018
+## Woche 1: 16.04.2018
 
 * python für Windows installiert
 * cmder für Windows installiert
