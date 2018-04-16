@@ -9,3 +9,8 @@
 * Football
 * Skiing
 * playing Computergames
+
+## Progarmming Skills
+* Java
+* Python
+* HTML
